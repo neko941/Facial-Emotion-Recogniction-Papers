@@ -14,3 +14,54 @@
 | [Facial Expression Recognition using Visual Saliency and Deep Learning](https://arxiv.org/ftp/arxiv/papers/1708/1708.08016.pdf) | 2017.08.26 | CFEE <br> RaFD  
 | [EmotioNet: An accurate, real-time algorithm for the automatic annotation of a million facial expressions in the wild](https://openaccess.thecvf.com/content_cvpr_2016/papers/Benitez-Quiroz_EmotioNet_An_Accurate_CVPR_2016_paper.pdf) || EmotioNet
 | [Multitask Multi-database Emotion Recognition](https://arxiv.org/pdf/2107.04127v2.pdf) | 2021.07.12 | AffWild2 <br> ExpW
+
+
+# Sample
+### KDEF [https://www.kdef.se/index.html]
+![image](https://user-images.githubusercontent.com/42170045/173389008-6aace37a-2c6f-4ec1-a93a-6a35d2c5839b.png)
+
+
+### JAFFE [https://zenodo.org/record/3451524]
+![image](https://user-images.githubusercontent.com/42170045/173389950-cb416182-cbd6-4e9e-b448-fd85b6f27817.png)
+
+### RAVDESS [https://zenodo.org/record/1188976]
+
+### CK+ []
+
+### MMI []
+
+### CMU-MOSEI []
+
+### FER2013 []
+
+### FER+ []
+
+### FERA []
+
+### AffectNet []
+
+### RAF-DB []
+
+### RaFD []
+
+### AFEW []
+
+### SFEW []
+
+### TFD []
+
+### Oulu-CASIA []
+
+### MMI []
+
+### Multi-Pie []
+
+### DISFA []
+
+### CFEE []
+
+### EmotioNet []
+
+### AffWild2 []
+
+### ExpW []
