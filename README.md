@@ -25,8 +25,10 @@
 ![image](https://user-images.githubusercontent.com/42170045/173389950-cb416182-cbd6-4e9e-b448-fd85b6f27817.png)
 
 ### RAVDESS [https://zenodo.org/record/1188976]
+![image](https://user-images.githubusercontent.com/42170045/173473488-d5ca3944-0f64-46c7-9fa2-35b3f00dcb03.png)
 
 ### CK+ []
+![Uploading image.png…]()
 
 ### MMI []
 
