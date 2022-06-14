@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/42170045/173473488-d5ca3944-0f64-46c7-9fa2-35b3f00dcb03.png)
 
 ### CK+ []
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/42170045/173502332-ee1ba01d-7a91-4912-b762-a1a86cb1874b.png)
 
 ### MMI []
 
