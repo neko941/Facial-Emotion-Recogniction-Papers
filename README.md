@@ -30,9 +30,11 @@
 ### CK+ []
 ![image](https://user-images.githubusercontent.com/42170045/173502332-ee1ba01d-7a91-4912-b762-a1a86cb1874b.png)
 
-### MMI []
+### MMI [https://mmifacedb.eu/]
+![image](https://user-images.githubusercontent.com/42170045/173724565-5123975c-0a31-4297-85b5-5bd99efeb9e3.png)
 
-### CMU-MOSEI []
+### CMU-MOSEI [http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/]
+![image](https://user-images.githubusercontent.com/42170045/173724825-7211be26-0643-42e7-a002-8652c5667f10.png)
 
 ### FER2013 []
 
@@ -40,30 +42,41 @@
 
 ### FERA []
 
-### AffectNet []
+### AffectNet [http://mohammadmahoor.com/affectnet/]
+![image](https://user-images.githubusercontent.com/42170045/173733796-79634886-c484-441d-9ed5-8a6aa7247e2f.png)
 
-### RAF-DB []
+### RAF-DB [https://www.v7labs.com/open-datasets/raf-db]
+![image](https://user-images.githubusercontent.com/42170045/173734183-f910d8d7-4c7b-417d-869e-2c387b9e3119.png)
 
 ### RaFD []
+![image](https://user-images.githubusercontent.com/42170045/173734270-d98b73d0-f3cd-4778-a0f5-c69cc7855324.png)
 
-### AFEW []
+### AFEW [https://cs.anu.edu.au/few/AFEW.html]
+![image](https://user-images.githubusercontent.com/42170045/173734693-79586f70-5cec-49a1-9c10-724bde67d5c3.png)
+
+### AFEW-VA [https://ibug.doc.ic.ac.uk/resources/afew-va-database/]
+![image](https://user-images.githubusercontent.com/42170045/173734569-1b5b06d8-1e43-49db-8ce9-12765d19517f.png)
 
 ### SFEW []
 
 ### TFD []
 
 ### Oulu-CASIA []
+![image](https://user-images.githubusercontent.com/42170045/173735571-c1a49ca5-83b1-41df-a448-51b56eedc18e.png)
 
-### MMI []
+### Multi-Pie [https://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html]
+![image](https://user-images.githubusercontent.com/42170045/173736047-73aa4d55-3d56-4fa5-96f5-5aa96268061c.png)
 
-### Multi-Pie []
+### DISFA [http://mohammadmahoor.com/disfa/]
+![image](https://user-images.githubusercontent.com/42170045/173745428-e98529da-ad04-40ab-9ac0-90e4ddd36aaa.png)
 
-### DISFA []
+### CFEE [http://cbcsl.ece.ohio-state.edu/dbform_compound.html]
+![image](https://user-images.githubusercontent.com/42170045/173745926-310c5637-c968-4180-a463-08d52d58357f.png)
 
-### CFEE []
+### EmotioNet [http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/] (http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html]
+![image](https://user-images.githubusercontent.com/42170045/173746832-292a71db-eafb-4bfd-b25e-3cef5a240391.png)
 
-### EmotioNet []
-
-### AffWild2 []
+### AffWild2 [https://ibug.doc.ic.ac.uk/resources/aff-wild2/]
+![image](https://user-images.githubusercontent.com/42170045/173746959-487149b0-d61b-454d-8ca8-81994936435a.png)
 
 ### ExpW []
